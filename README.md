@@ -183,32 +183,32 @@ npm run dev
 ## 画面キャプチャ
 
 ### ダッシュボード
-![ダッシュボード](docs/images/dashboard.png)
+![ダッシュボード](./docs/images/dashboard.png)
 
 売上ランキング、カテゴリ別集計、顧客別分析を一覧表示
 
 ### 商品管理
-![商品管理](docs/images/products.png)
+![商品管理](./docs/images/products.png)
 
 商品マスタの一覧表示
 
 ### 顧客管理
-![顧客管理](docs/images/customers.png)
+![顧客管理](./docs/images/customers.png)
 
 顧客マスタの一覧表示
 
 ### 販売管理
-![販売管理](docs/images/sales.png)
+![販売管理](./docs/images/sales.png)
 
 販売データの一覧表示
 
 ### 販売詳細
-![販売詳細](docs/images/sales-detail.png)
+![販売詳細](./docs/images/sales-detail.png)
 
 販売データの詳細表示（ヘッダー + 明細）
 
 ### 販売登録
-![販売登録](docs/images/sales-new.png)
+![販売登録](./docs/images/sales-new.png)
 
 新規販売登録フォーム（在庫管理付き）
 
